@@ -1,5 +1,5 @@
-## RMHY
-# Hi there 👋
+# RMHY
+Hi there 👋
 
 <!--
 
